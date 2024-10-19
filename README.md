@@ -1,7 +1,9 @@
 # Numerical-Inverse-Kinematics-UR5
  Numerical Inverse Kinematics for UR5 (resolved rate control)
 
-
+JHU RDKDC Student DO NOT USE THIS, you are asked using lie algebra approach, but this is traditional approach.
+但是你们仍旧可以参考这一篇：https://github.com/DH768154/Numerical-Inverse-Kinematics-General
+虽然机器人结构完全不同，但原理是一样的。
 
 这个文件是写给我老同学的，为了简单并详细地解释Jacobian和运动学逆解地方法，程序中并没有使用循环，而是矩阵一个一个拼起来。
 
